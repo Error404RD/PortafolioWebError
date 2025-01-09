@@ -1314,3 +1314,18 @@ textarea {
 .h-pull-right {
 	float: right;
 }
+.logo-distribution{
+	display: flex;
+	align-items: center;
+    justify-content: space-around;
+	gap: 1rem;
+    width: 100%;
+	background-color: #FFFF;
+	border-radius: 1REM;
+	padding: 1rem;
+
+}
+.logo-distribution img{
+	width: auto;
+	height: 6rem;
+}
