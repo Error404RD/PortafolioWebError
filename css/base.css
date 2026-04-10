@@ -1317,9 +1317,9 @@ textarea {
 .logo-distribution{
 	display: flex;
 	align-items: center;
-    justify-content: space-around;
+    justify-content: center;
 	flex-wrap: wrap;
-	gap: 1rem;
+	gap: 5rem;
     width: 100%;
 	background-color: #FFFF;
 	border-radius: 1REM;
